@@ -1,6 +1,6 @@
 # Bank of Bharat — Online Banking System
 
-> A full-featured, multi-role online banking web application built as a college Software Engineering Lab project.
+> A full-featured, multi-role online banking web application.
 
 **Stack:** Python 3.11 · Streamlit · MySQL 8.0 · bcrypt · Plotly
 
@@ -24,7 +24,7 @@
 
 ## 1. Project Overview
 
-**Bank of Bharat** is a browser-based, multi-role online banking system that simulates the core operations of a modern Indian retail bank. It is developed as a prototype for a college Software Engineering Lab assignment.
+**Bank of Bharat** is a browser-based, multi-role online banking system that simulates the core operations of a modern Indian retail bank. It is developed as a prototype for demonstration purposes.
 
 The system supports **four distinct user roles**, each with a dedicated dashboard and strictly enforced permissions:
 
@@ -556,8 +556,8 @@ This SRS is written specifically for Bank of Bharat and covers:
 
 ## License
 
-This project is submitted as an academic assignment and is intended for **educational and demonstration purposes only**. It is not suitable for production banking use.
+This project is intended for **educational and demonstration purposes only**. It is not suitable for production banking use.
 
 ---
 
-*Bank of Bharat — Software Engineering Lab Project · 2026*
+*Bank of Bharat*
