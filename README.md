@@ -92,10 +92,8 @@ bank_of_bharat/
 ├── requirements.txt        # Python dependencies
 │
 ├── .streamlit/
-│   └── config.toml         # Streamlit dark theme configuration
-│
-└── docs/
-    └── NovaCrest_Banking_SRS_v1_0.pdf   # Original SRS document (reference)
+   └── config.toml         # Streamlit dark theme configuration
+
 ```
 
 ---
@@ -550,23 +548,6 @@ To stop the server: press `Ctrl + C` in the terminal.
 | `manager_loan_approval.png` | Loan approval screen with affordability check |
 | `cashier_salary.png` | Salary disbursement panel with per-employee status |
 
----
-
-## 12. Project Documents
-
-The original Software Requirements Specification (SRS) used to build this project is available in the `docs/` folder:
-
-```
-docs/
-└── NovaCrest_Banking_SRS_v1_0.pdf
-```
-
-> The SRS was written for "NovaCrest Bank". This implementation renames the bank to **Bank of Bharat** and extends the SRS with:
-> - Salary Account type (5th account type)
-> - 7 loan purposes with purpose-based rate adjustments (replaces 5 generic purposes)
-> - 5 collateral types with differentiated rate adjustments (replaces binary yes/no)
-> - Customer self-registration option (SRS listed this as out-of-scope for v1.0)
-> - Bank Admin can create Manager accounts
 
 ---
 
