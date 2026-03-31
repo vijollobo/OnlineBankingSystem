@@ -364,11 +364,11 @@ These accounts are created automatically by `python init_db.py`:
 | Username | Password | Role | Full Name | Notes |
 |---|---|---|---|---|
 | `admin` | `Admin@123` | Bank Admin | System Administrator | Can create all roles including Manager |
-| `manager` | `Manager@123` | Manager | Rajesh Kumar | Approves loans, promotes staff, views analytics |
-| `cashier1` | `Cashier@123` | Cashier | Priya Sharma | Processes transactions, disburses salary |
-| `cashier2` | `Cashier@123` | Cashier | Vikram Mehta | Second cashier — test parallel salary workflows |
-| `customer1` | `Customer@123` | Customer | Amit Patel | Pre-seeded with a Savings and a Salary Account |
-| `customer2` | `Customer@123` | Customer | Sunita Devi | No accounts — use to test the account-opening flow |
+| `manager` | `Manager@123` | Manager | Ambar Bezbaruah | Approves loans, promotes staff, views analytics |
+| `cashier1` | `Cashier@123` | Cashier | Soyam Rai | Processes transactions, disburses salary |
+| `cashier2` | `Cashier@123` | Cashier | Nikchaya Lamsal | Second cashier — test parallel salary workflows |
+| `customer1` | `Customer@123` | Customer | Sarmishta Mukhopadhyay | Pre-seeded with a Savings and a Salary Account |
+| `customer2` | `Customer@123` | Customer | Champakalakshmi Iyer | No accounts — use to test the account-opening flow |
 
 > **Change all default passwords before any non-demonstration deployment.**
 
